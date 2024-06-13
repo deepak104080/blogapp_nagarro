@@ -1,0 +1,121 @@
+java
+python
+dot net
+php
+ror
+
+javascript - browsers
+
+nodejs
+
+
+nodejs
+full stack
+
+
+/////////////////////////////////////////
+front end
+
+google - angular
+facebook - react
+
+vuejs
+backbonejs
+meteojs
+......
+
+
+expressjs
+koajs
+......
+
+
+nextjs
+nestjs
+nuxtjs
+blitz....................
+
+
+
+
+
+
+///////////////////////////
+angular - framework
+react - library
+
+
+
+
+dom
+routing
+local storage / login handling
+data sharing
+api calling
+............
+
+
+
+react
+react-dom
+react-router-dom
+redux
+
+
+
+react.dev - documentation
+
+
+
+
+
+//////////////////////////
+
+
+npm-  Node Package Manager
+npx - react applications
+
+
+npx create-react-app <appname>
+
+
+
+
+Pre-requisites
+Nodejs - latest
+IDE - VS Code
+browsers
+
+
+/////////////////////////////
+
+js - es6
+module concept
+
+//////////////////////////
+setup a blank react repo
+module concept
+jsx - templating - extended javascript xml
+
+
+
+///////////////////////////
+
+// {js expression}
+// className
+
+
+// jsx
+// display of variables / expressions
+// running loop
+// conditionals
+
+
+
+// routing
+// state and props
+
+handling events
+fragments
+
+type of components
