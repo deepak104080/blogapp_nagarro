@@ -119,3 +119,47 @@ handling events
 fragments
 
 type of components
+
+
+
+
+/////////////////////////////////////
+
+// Hooks - Replacement of all standard functionalities of React / Class Component
+// State - useState
+// Context - useContext
+// Lifecycle methods - useEffect, api calls
+//forms
+
+
+
+
+/////////////////////////////////////
+
+
+React-bootstrap
+
+Col, Row, Button
+
+tailwind css
+
+/////////////////////////
+
+
+
+components - functional and class
+virtual dom
+jsx - loops, conditionals
+templating, css
+state(useState) and props
+class - lifecycle methods, useEffect, api calls
+Hooks
+Forms
+Ref - useRef
+HOC
+Custom Hooks
+Lifting State UP - Pass data from child to parent
+Context - useContext, Props Drlling
+Optimisation techniques - useMemo, useCallback
+
+Redux, react-redux, redux-toolkit

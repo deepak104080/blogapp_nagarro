@@ -9,6 +9,7 @@ const Menubar = () => {
                     <Link to="/home">Home</Link>
                     <Link to="/about">About</Link>
                     <Link to="/services">Services</Link>
+                    <Link to="/apicall">APICall</Link>
                 </div>
             </div>
         </>
